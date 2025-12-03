@@ -8,7 +8,7 @@ Este proyecto utiliza ANTLR para procesar expresiones que relacionan frases de l
 # Información del Curso
 
 Materia:Programación de Sistemas de Base 1  
-Institución: Universidad Autónoma de Tamaulipas  
+Universidad Autónoma de Tamaulipas  
 Semestre: Octavo semestre (2025-3)  
 Profesor: Muñoz Quintero Dante Adolfo  
 
@@ -19,6 +19,7 @@ Profesor: Muñoz Quintero Dante Adolfo
 - Lopez Alavez Gloria Jazmin
 - Cabrera Gabriel Cenyaze Daylaan
 - Huerta Hernández Dilan Dariel
+
 
 
 
